@@ -10,7 +10,7 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 2. Przechowywania plików w serwisie GitHub
 3. Publikowania strony w chmurze
 
-## Spis treści
+## Ćwiczenia nr 1 - Spis treści
 [Strona-wizytówka]
 https://kubi0o0.github.io/chmura-cwiczenia/
 
