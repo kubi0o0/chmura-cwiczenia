@@ -14,4 +14,4 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 [Strona-wizytówka]{https://kubi0o0.github.io/chmura-cwiczenia/}
 [Cechy-NIST]{notatki/cechy-nist.md}
 [Bezpieczeństwo-w-repozytorium]{notatki/bezpieczenstwo.md}
-[Notatki-z-ćwiczeń]{https://github.com/kubi0o0/chmura-cwiczenia/tree/main/notatki}
+[Notatki-z-ćwiczeń]{https://github.com/kubi0o0/chmura-cwiczenia/blob/main/Kopia_notatnika_Cwiczenia_01_Chmura_bez_karty_Colab_i_GitHub.ipynb}
