@@ -22,4 +22,5 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 [Bezpieczeństwo w repozytorium](https://github.com/kubi0o0/chmura-cwiczenia/blob/main/notatki/bezpieczenstwo.md)
 
 
-[Notatki-z-ćwiczeń](https://colab.research.google.com/drive/1bQ22yjAfnlR_0pjEGgcUd4e-6znNzuDj?usp=sharing)
+
+[Notatki z ćwiczeń](https://colab.research.google.com/drive/1bQ22yjAfnlR_0pjEGgcUd4e-6znNzuDj?usp=sharing)
