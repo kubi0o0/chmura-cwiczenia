@@ -11,9 +11,18 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 3. Publikowania strony w chmurze
 
 ## Spis treści
-[Strona-wizytówka]{https://kubi0o0.github.io/chmura-cwiczenia/}
-[Cechy-NIST]{notatki/cechy-nist.md}
-[Bezpieczeństwo-w-repozytorium]{notatki/bezpieczenstwo.md}
+[Strona-wizytówka]
+https://kubi0o0.github.io/chmura-cwiczenia/
+
+
+
+[Cechy-NIST]
+notatki/cechy-nist.md
+
+
+
+[Bezpieczeństwo-w-repozytorium]
+notatki/bezpieczenstwo.md
 
 
 [Notatki-z-ćwiczeń]
