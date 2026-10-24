@@ -17,12 +17,12 @@ https://kubi0o0.github.io/chmura-cwiczenia/
 
 
 [Cechy-NIST]
-notatki/cechy-nist.md
+https://github.com/kubi0o0/chmura-cwiczenia/tree/main/notatki
 
 
 
 [Bezpieczeństwo-w-repozytorium]
-notatki/bezpieczenstwo.md
+https://github.com/kubi0o0/chmura-cwiczenia/edit/main/README.md
 
 
 [Notatki-z-ćwiczeń]
