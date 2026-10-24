@@ -25,5 +25,4 @@ https://github.com/kubi0o0/chmura-cwiczenia/blob/main/notatki/cechy-nist.md
 https://github.com/kubi0o0/chmura-cwiczenia/blob/main/notatki/bezpieczenstwo.md
 
 
-[Notatki-z-ćwiczeń]
-https://github.com/kubi0o0/chmura-cwiczenia/blob/main/Kopia_notatnika_Cwiczenia_01_Chmura_bez_karty_Colab_i_GitHub.ipynb
+[Notatki-z-ćwiczeń](https://colab.research.google.com/drive/1bQ22yjAfnlR_0pjEGgcUd4e-6znNzuDj?usp=sharing)
