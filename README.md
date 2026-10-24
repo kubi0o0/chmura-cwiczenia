@@ -2,7 +2,7 @@
 
 Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 
-- Autor: (Jkub)
+- Autor: (Jakub)
 - Grupa: (1)
 
 ## Czego się tu nauczę
